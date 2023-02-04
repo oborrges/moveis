@@ -20,14 +20,18 @@ O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele 
 <br>
 Antes da refaturação do código, o projeto se encontrava assim:
 <br>
+<br>
+
 <p align="center">
   <img alt="projeto sem refaturação" src=".github/preview.png" width="100%">
 </p>
 <br>
 
 <br>
-Após a refaturação o projeto ficou assim, seguindo as orientações do Figma:
+Após a refaturação, seguindo as orientações do Figma, o projeto ficou assim:
 <br>
+<br>
+
 <p align="center">
   <img alt="projeto refaturado" src=".github/preview01.jpg" width="100%">
 </p>
